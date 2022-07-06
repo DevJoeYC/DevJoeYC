@@ -1,24 +1,6 @@
-### Hi there 👋
+### 반갑습니다 👋
 
-<!--
-**DevJoeYC/DevJoeYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**더 나은 삶을 영위하고자 하는** 두 아이의 아빠입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-echo "# DevJoeYC" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DevJoeYC/DevJoeYC.git
-git push -u origin main
