@@ -1,12 +1,15 @@
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Hi,I’m&#64;guma_zz&fontSize=50)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) 
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevJoeYC&show_icons=true&theme=radical) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoeYC&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 <hr>
 
-<div align=center><h3>👨‍🔧 Stack</h3>
+<h3>👨‍🔧 Stack</h3>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
