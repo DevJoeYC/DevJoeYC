@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=반갑습니다.&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=white&height=200&section=header&text=반갑습니다.&fontSize=50)
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
